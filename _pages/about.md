@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an incoming MSc student in Computer Science at [Montreal Institute for Learning Algorithms](https://mila.quebec/) and Université de Montréal supervised by [Prof. Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/). My current research interests focus on Meta-Learning and Reinforcement Learning. 
+Hi! I'm a MSc student in Computer Science at [Montreal Institute for Learning Algorithms](https://mila.quebec/) and Université de Montréal supervised by [Prof. Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/). My current research interests focus on Meta-Learning and Reinforcement Learning. 
 
 Before graduate school, I did my Bachelors in Computer Science at University of Oxford ([WhiRL](https://whirl.cs.ox.ac.uk/)) under [Prof. Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). During this time, I did research internships at University of Kyoto under [Prof. Atsuko Sehara-Fujisawa](https://zfin.org/ZDB-LAB-160803-1) and at [Brave Software](https://brave.com/).
 
