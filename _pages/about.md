@@ -15,6 +15,8 @@ Before graduate school, I did my Bachelors in Computer Science at University of 
 
 News
 -----
+* Sep. 2021: I am now a PhD Student 
+* May. 2021: 1 Paper accepted to ICML 2021
 * Sep. 2020: I've joined [Mila](https://mila.quebec/en/person/leo-feng/) as a Research MSc Student 
 * Aug. 2020: I'm attending the CIFAR Deep Learning + Reinforcement Learning Summer School ([DLRLSS](https://dlrl.ca/)) 2020
 
